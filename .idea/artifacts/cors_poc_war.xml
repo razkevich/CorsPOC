@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cors-poc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cors-poc.war">
+      <element id="artifact" artifact-name="cors-poc:war exploded" />
+    </root>
+  </artifact>
+</component>
